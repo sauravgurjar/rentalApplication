@@ -6,7 +6,7 @@ Widget buildTextLogo(isDarkMode, size) {
     mainAxisAlignment: MainAxisAlignment.center,
     children: [
       Text(
-        'Sob',
+        'Sobs',
         style: GoogleFonts.poppins(
           color: isDarkMode ? Colors.white : Colors.black,
           fontSize: size.height * 0.04,
@@ -14,7 +14,7 @@ Widget buildTextLogo(isDarkMode, size) {
         ),
       ),
       Text(
-        'GOG',
+        'GOGs',
         style: GoogleFonts.poppins(
           color: const Color(0xff3b22a1),
           fontSize: size.height * 0.045,
